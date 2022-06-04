@@ -1,4 +1,4 @@
-- MAHAM Tahir
+- MAHAM TAHIR
 - doing bachelor's at ubit, university of karachi 
 - i think to code and code to explore :)
 
