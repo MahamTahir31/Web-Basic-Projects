@@ -1,0 +1,172 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    font-size: 2 rem;
+}
+.header{
+    
+    margin: 5px;
+    background-color: rgb(41, 41, 102);
+    color: White; 
+    height: 320px; 
+
+}
+.header .brand-name{
+    
+    display: inline-block;
+    margin:5px 10px;
+    font-size: 24px;
+ 
+}
+#B{
+    font-size: 22px;
+    font-weight:bolder;
+   
+ 
+}
+.header .navbar{
+    
+    display: inline-block;
+    position: relative;
+    top: 0;
+    left: 870px;
+
+}
+
+.navbar ul li{
+    display: inline;
+    list-style: none; 
+    margin: 5px 10px;
+    
+    
+}
+.navbar li a{
+    
+    text-decoration: none;
+    color: white;
+   
+}
+.navbar li a:hover,.navbar li a:active{
+    color: rgb(41, 41, 102);
+    background-color: white;
+    border:4px solid white;
+    border-radius: 50px;
+    padding: 5px 7px;
+    
+}
+#login{
+    color: rgb(41, 41, 102);
+    background-color: white;
+    border:4px solid white;
+    border-radius: 50px;
+    padding: 5px 7px;
+
+}
+.s
+.header .buy-container{
+    
+    margin: 10px;
+    display: flex; 
+}
+h2{
+    font-weight: 400;
+}
+.header .buy-container .menu{
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    width: 600px;
+    margin:15px 10px 5px 10px
+}
+.header .buy-container .menu h2{
+    font-size: 1.8rem;
+}
+.header .buy-container .menu p{
+    align-items: center;
+    text-align: justify;
+    font-size: 1.1rem
+}
+.header .buy-container .menu .buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.press{
+    padding: 0px 5px;
+}
+
+.btn1{
+    border: 7px solid rgb(122, 187, 128);
+    border-radius: 20px;
+    background-color:rgb(122, 187, 128) ;
+    color:rgb(41, 41, 102) ;
+    font-weight: 600;
+    cursor: pointer;
+    
+}
+.btn2{
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 5px 15px;
+    background-color: rgb(41, 41, 102);
+    color: white;
+    cursor: pointer;
+}
+.btn2:hover,.btn2:active{
+    border: 3px solid rgb(122, 187, 128);
+    border-radius: 17px;
+    background-color:rgb(122, 187, 128) ;
+    color:rgb(41, 41, 102) ;
+    font-weight: 600;
+    
+    
+}
+.header .buy-container .images-section{
+  
+ 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:end;
+}
+#icon
+{
+    position: relative;
+    bottom: 160px;
+    right: 90px;
+    padding: 0 20px;
+    font-size: 8.5rem;
+}
+.header .brand-footer{
+    display: inline-block;
+    font-size: 20px;
+    color: white;
+    position: relative;
+    bottom:150px;
+    left: 450px;
+
+}
+.header .brand-footer li{
+    display: inline;
+    text-decoration: none;
+    padding: 10px 10px;
+}
+#presto{
+    font-size: 8.5 rem;
+}
+
+.body{
+    height: 500px;
+  
+
+
+}
+footer{
+    background-color: rgb(41, 41, 102) ;
+    color: White; 
+    height: 150px; 
+    margin: 5px;
+}
