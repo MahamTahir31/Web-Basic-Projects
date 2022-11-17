@@ -1,5 +1,5 @@
 - MAHAM TAHIR
-- doing bachelor's at ubit, university of karachi 
+- Doing bachelor's at ubit, University of Karachi 
 - i think to code and code to explore :)
 
 
